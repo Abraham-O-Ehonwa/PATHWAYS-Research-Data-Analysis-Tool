@@ -1,0 +1,49 @@
+2025-03-15 22:36:56,570 - DataLoader - INFO - Loading data from data.csv
+2025-03-15 22:36:56,600 - DataLoader - INFO - Column indices identified
+2025-03-15 22:36:56,613 - DataLoader - INFO - Demographic data processed successfully
+2025-03-15 22:36:56,613 - DataLoader - INFO - Education data processed successfully
+2025-03-15 22:36:56,636 - DataLoader - INFO - Gender and employment data processed successfully
+2025-03-15 22:36:56,646 - DataLoader - INFO - Processed 86 valid responses for female researcher career barriers
+2025-03-15 22:36:56,656 - DataLoader - INFO - Confidence data processed successfully
+2025-03-15 22:36:56,656 - DataLoader - WARNING - Required columns for family impact data are missing
+2025-03-15 22:36:56,656 - DataLoader - INFO - Data loading and processing complete
+2025-03-15 22:36:56,658 - main - INFO - Starting application main loop
+2025-03-15 22:37:35,811 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 22:37:35,811 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 22:37:43,213 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 22:37:43,214 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 22:38:09,524 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 22:38:09,525 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-15 22:38:23,343 - Controller - INFO - Chart exported to E:/new.png
+2025-03-16 18:43:32,404 - main - ERROR - Unhandled exception: Controller.__init__() missing 2 required positional arguments: 'root' and 'csv_file'
+Traceback (most recent call last):
+  File "E:\prac\main.py", line 34, in main
+    controller = Controller()
+                 ^^^^^^^^^^^^
+TypeError: Controller.__init__() missing 2 required positional arguments: 'root' and 'csv_file'
+2025-03-16 18:46:11,247 - main - ERROR - Unhandled exception: ResearcherController.__init__() missing 2 required positional arguments: 'root' and 'csv_file'
+Traceback (most recent call last):
+  File "E:\prac\main.py", line 34, in main
+    controller = ResearcherController()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ResearcherController.__init__() missing 2 required positional arguments: 'root' and 'csv_file'
+2025-03-16 18:46:38,470 - main - ERROR - Unhandled exception: 'ResearcherController' object has no attribute 'set_ui'
+Traceback (most recent call last):
+  File "E:\prac\main.py", line 40, in main
+    controller.set_ui(ui)
+    ^^^^^^^^^^^^^^^^^
+AttributeError: 'ResearcherController' object has no attribute 'set_ui'
+2025-03-16 18:48:01,059 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 18:48:01,060 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 20:20:56,953 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 20:20:56,953 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 20:21:11,752 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 20:21:11,752 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:34:25,414 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:34:25,414 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:35:05,459 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:35:05,459 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:35:07,720 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:35:07,720 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:35:28,715 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-16 22:35:28,715 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
